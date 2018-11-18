@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-timestr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "time string component for mofron",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-comp-timestr.git"
+  },
+  "dependencies": {
+    "mofron-layout-horizon" : "",
+    "mofron-comp-timeif" : ""
   },
   "keywords": [
     "front-end"
